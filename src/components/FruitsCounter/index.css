@@ -45,6 +45,8 @@ span {
   border-width: 0px;
   margin-top: 20px;
   margin-bottom: 10px;
+  cursor: pointer;
+  outline: none;
 }
 .container {
   display: flex;
